@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "name": "peaks",
+      "description": "20 famous mountain peaks — dramatic landscapes, from Everest to Aoraki",
+      "author": "Agiterra",
+      "repo": "agiterra/crew-theme-peaks",
+      "commit": "54c085b1d52ee64920f044bac1204e7bbfe36f53",
+      "default": true
+    },
+    {
+      "name": "trees",
+      "description": "20 hardwoods and evergreens — warm wood grains and forest tones",
+      "author": "Agiterra",
+      "repo": "agiterra/crew-theme-trees",
+      "commit": "cbeb706a36b7716b83bdc98f395f4e1db6886298"
+    },
+    {
+      "name": "cities",
+      "description": "20 classic cities around the world",
+      "author": "Agiterra",
+      "repo": "agiterra/crew-theme-cities",
+      "commit": "e16ab87fce97e59dc0207c0267bbf22e13c6ba4c"
+    },
+    {
+      "name": "spices",
+      "description": "20 warm spices — cardamom, saffron, cinnamon and more",
+      "author": "Agiterra",
+      "repo": "agiterra/crew-theme-spices",
+      "commit": "47162cfc3f7f0ae9b8ea5ff260f96421a2f61840"
+    },
+    {
+      "name": "rivers",
+      "description": "20 great rivers of the world — scenic landscapes",
+      "author": "Agiterra",
+      "repo": "agiterra/crew-theme-rivers",
+      "commit": "dc4283a7b46c06aa3861de63aef8b11218b7faab"
+    },
+    {
+      "name": "stones",
+      "description": "20 stones, gems, and minerals — textured close-ups",
+      "author": "Agiterra",
+      "repo": "agiterra/crew-theme-stones",
+      "commit": "574e3ce22aad8fb28500d5178fc0e242f13c73ee"
+    }
+  ]
+}

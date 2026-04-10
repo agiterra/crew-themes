@@ -1,0 +1,9 @@
+{
+  "name": "crew-themes",
+  "description": "Pane background themes for Crew — search, install, preview, build, and submit themes for iTerm2 panes.",
+  "version": "0.1.0",
+  "keywords": ["crew", "themes", "iterm2", "background", "authoring"],
+  "skills": "./skills/",
+  "postInstall": "bash ensure-bun.sh && bun install --frozen-lockfile",
+  "postUpdate": "bash ensure-bun.sh && bun install --frozen-lockfile"
+}
