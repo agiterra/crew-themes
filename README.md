@@ -1,11 +1,20 @@
 # crew-themes
 
-Pane background themes for [Crew](https://github.com/agiterra/crew-claude-code) — iTerm2 panes with warm themed backgrounds and per-pane badge colors.
+> Pane background themes for [Crew](https://github.com/agiterra/crew-claude-code) — iTerm2 panes with warm themed backgrounds and per-pane badge colors.
 
-## Install
+Part of the [Agiterra Multi-Agent Toolkit](https://github.com/agiterra/handbook). Optional companion to `crew`.
+
+## What this gets you
+
+- **Tell agents apart at a glance** — each pane gets a unique themed name (e.g. `oak`, `cedar`, `maple`) and matching badge color
+- **Beautiful panes** — themed background images at 50% blend (iTerm2)
+- **Build your own theme in seconds** — "Build me a theme about coffee" and a Sonnet agent does the rest
+
+## Quick setup
 
 ```
-/plugin install agiterra/crew-themes
+/plugin marketplace add agiterra/claude-marketplace   # one-time
+/plugin install crew-themes@agiterra
 ```
 
 ## Use it
